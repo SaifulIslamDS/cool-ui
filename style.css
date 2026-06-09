@@ -48,18 +48,18 @@ a {
 .footer-logo {
   color: var(--primary);
   font-size: 20px;
-  font-weight: 800;
+  font-weight: 900;
   letter-spacing: -1px;
 }
 
 .nav {
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 40px;
 }
 
 .nav a {
-  font-size: 14px;
+  font-size: 20px;
   color: #8a8fa3;
   transition: color 0.3s ease;
 }
@@ -73,7 +73,7 @@ a {
   color: #ffffff;
   padding: 10px 22px;
   border-radius: 3px;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
   transition: background 0.3s ease, transform 0.3s ease;
 }
